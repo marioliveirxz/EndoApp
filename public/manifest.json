@@ -1,6 +1,6 @@
 {
-  "name": "EndoTrack",
-  "short_name": "EndoTrack",
+  "name": "EndoApp",
+  "short_name": "EndoApp",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FCFAFC",
